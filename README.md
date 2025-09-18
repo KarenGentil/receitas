@@ -1,1 +1,1 @@
-# receitas
+Construir um único "Card de Receita". Este componente terá uma imagem no topo, seguida pelo nome do prato e uma breve descrição. O foco principal será na tag <img>, na importância da acessibilidade com o atributo alt, e em como controlar o comportamento de uma imagem dentro de um contêiner com width: 100% para que ela se torne responsiva.
